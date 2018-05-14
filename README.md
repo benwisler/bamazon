@@ -1,5 +1,5 @@
 ## IMPORTANT ##
-* Please download mp4 in the media file to view bamazonManager.mp4 functionality!
+* Please download mp4 in the media file to view bamazonManager.js functionality!
 
 ## BAMAZON CUSTOMER ##
 * View and buy products from a MySQL database. 
