@@ -21,8 +21,8 @@
 * colors
 
 ![alt text](/media/2018-05-14.png)
-![alt text](/media/2018-05-14(1).png)
-![alt text](/media/2018-05-14(2).png)
-![alt text](/media/2018-05-14(3).png)
-![alt text](/media/2018-05-14(4).png)
-![alt text](/media/2018-05-14(5).png)
+![alt text](/media/2018-05-14-1.png)
+![alt text](/media/2018-05-14-2.png)
+![alt text](/media/2018-05-14-3.png)
+![alt text](/media/2018-05-14-4.png)
+![alt text](/media/2018-05-14-5.png)
